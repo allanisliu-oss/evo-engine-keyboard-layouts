@@ -7,6 +7,7 @@ This repository publishes three keyboard layout designs for learning, personal c
 - `dragonfly.json` / `kite.json` / `brick.json`: layout source files
 - `dragonfly.svg` / `kite.svg` / `brick.svg`: vector previews
 - `dragonfly.png` / `kite.png` / `brick.png`: rendered previews
+- `keyboard-layout.json` / `keyboard-layout.svg`: imported working draft with the central TrackPad and fan/split arrangement
 
 ## Design Note
 
