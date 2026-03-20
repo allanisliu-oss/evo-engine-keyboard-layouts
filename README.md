@@ -1,13 +1,10 @@
-# EVO Engine Keyboard Layouts (Dragonfly / Kite / Brick)
+# EVO Engine Cube Keyboard Layout
 
-This repository publishes three keyboard layout designs for learning, personal customization, and community collaboration.
+This repository publishes the Cube keyboard layout design for learning, personal customization, and community collaboration.
 
 ## Files
 
-- `dragonfly.json` / `kite.json` / `brick.json`: layout source files
-- `dragonfly.svg` / `kite.svg` / `brick.svg`: vector previews
-- `dragonfly.png` / `kite.png` / `brick.png`: rendered previews
-- `keyboard-layout.json` / `keyboard-layout.svg`: imported working draft with the central TrackPad and fan/split arrangement
+- `keyboard-layout.json` / `keyboard-layout.svg`: Cube working draft with the central TrackPad and fan/split arrangement
 
 ## Design Note
 
@@ -46,19 +43,17 @@ See [LICENSE](./LICENSE), [NOTICE.md](./NOTICE.md), and [COMMERCIAL_LICENSE.md](
 ## Commercial Contact
 
 - Email: `allanisliu@gmail.com`
-- Subject: `Commercial License Request - EVO Keyboard Layout`
+- Subject: `Commercial License Request - EVO Cube Keyboard Layout`
 
 ---
 
-# EVO Engine 键位设计（Dragonfly / Kite / Brick）
+# EVO Engine Cube 键位设计
 
-本仓库公开三套键盘键位设计，用于学习、个人改造与社区交流。
+本仓库公开 `Cube` 键盘键位设计，用于学习、个人改造与社区交流。
 
 ## 文件说明
 
-- `dragonfly.json` / `kite.json` / `brick.json`：布局源文件
-- `dragonfly.svg` / `kite.svg` / `brick.svg`：矢量预览图
-- `dragonfly.png` / `kite.png` / `brick.png`：渲染预览图
+- `keyboard-layout.json` / `keyboard-layout.svg`：`Cube` 布局源文件与矢量预览图
 
 ## 设计说明
 
@@ -97,4 +92,4 @@ See [LICENSE](./LICENSE), [NOTICE.md](./NOTICE.md), and [COMMERCIAL_LICENSE.md](
 ## 商用授权联系
 
 - 邮箱：`allanisliu@gmail.com`
-- 标题：`Commercial License Request - EVO Keyboard Layout`
+- 标题：`Commercial License Request - EVO Cube Keyboard Layout`

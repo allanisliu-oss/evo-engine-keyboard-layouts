@@ -7,7 +7,7 @@ If you need commercial rights (mass production, sales, distribution, OEM/ODM, or
 ## Contact
 
 - Email: `allanisliu@gmail.com`
-- Subject: `Commercial License Request - EVO Keyboard Layout`
+- Subject: `Commercial License Request - EVO Cube Keyboard Layout`
 
 ## Suggested Information
 
@@ -28,7 +28,7 @@ No commercial rights are granted unless explicitly confirmed in writing by the c
 ## 联系方式
 
 - 邮箱：`allanisliu@gmail.com`
-- 标题：`Commercial License Request - EVO Keyboard Layout`
+- 标题：`Commercial License Request - EVO Cube Keyboard Layout`
 
 ## 建议提交信息
 

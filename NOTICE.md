@@ -20,7 +20,7 @@ The following activities require prior written authorization from the copyright 
 When sharing or adapting these files, include:
 
 - Author: Allan / EVO Engine
-- Project: EVO Engine Keyboard Layouts
+- Project: EVO Engine Cube Keyboard Layout
 - Source: this repository
 - License: CC BY-NC-SA 4.0
 
@@ -46,6 +46,6 @@ When sharing or adapting these files, include:
 使用、转载或改作时，请保留以下信息：
 
 - 作者：Allan / EVO Engine
-- 项目：EVO Engine Keyboard Layouts
+- 项目：EVO Engine Cube Keyboard Layout
 - 来源：本仓库
 - 许可证：CC BY-NC-SA 4.0
